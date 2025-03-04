@@ -1,5 +1,5 @@
 {
-  "name": "@kt-python/eslint-plugin-rules",
+  "name": "eslint-plugin-kt-python",
   "version": "1.0.0",
   "description": "Кастомные правила для ESlint",
   "main": "index.js",
