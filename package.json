@@ -1,0 +1,19 @@
+{
+  "name": "@kt-python/eslint-plugin-rules",
+  "version": "1.0.0",
+  "description": "Кастомные правила для ESlint",
+  "main": "index.js",
+  "author": "Andrey Gorbunov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/eslint-plugin-myplugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/eslint-plugin-myplugin/issues"
+  },
+  "homepage": "https://github.com/yourusername/eslint-plugin-myplugin#readme",
+  "peerDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
