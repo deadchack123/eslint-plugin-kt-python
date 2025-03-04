@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/eslint-plugin-myplugin.git"
+    "url": "https://github.com/deadchack123/eslint-plugin-rules.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/eslint-plugin-myplugin/issues"
+    "url": "https://github.com/deadchack123/eslint-plugin-rules/issues"
   },
-  "homepage": "https://github.com/yourusername/eslint-plugin-myplugin#readme",
+  "homepage": "https://github.com/deadchack123/eslint-plugin-rules#readme",
   "peerDependencies": {
     "eslint": "^7.0.0"
   }
