@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deadchack123/eslint-plugin-rules.git"
+    "url": "https://github.com/deadchack123/eslint-plugin-kt-python.git"
   },
   "bugs": {
-    "url": "https://github.com/deadchack123/eslint-plugin-rules/issues"
+    "url": "https://github.com/deadchack123/eslint-plugin-kt-python/issues"
   },
-  "homepage": "https://github.com/deadchack123/eslint-plugin-rules#readme",
+  "homepage": "https://github.com/deadchack123/eslint-plugin-kt-python#readme",
   "peerDependencies": {
     "eslint": "^7.0.0"
   }
