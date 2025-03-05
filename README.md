@@ -1,5 +1,5 @@
 ## Install
 
-### yarn add -D eslint-plugin-kt-python
+1. yarn add -D eslint-plugin-kt-python
 
-### .eslintrc -> extends -> "plugin:kt-python/recommended"
+2. .eslintrc -> extends -> "plugin:kt-python/recommended"
